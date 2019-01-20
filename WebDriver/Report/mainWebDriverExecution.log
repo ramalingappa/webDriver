@@ -1,0 +1,17 @@
+20 Jan 2019 14:58:00    
+------------------------	Test suite Parsing started	------------------------
+
+20 Jan 2019 14:58:00    Parsing of (TestSuite\functionList.csv)  File has been started
+20 Jan 2019 14:58:00    Preparing Function map has been completed.
+20 Jan 2019 14:58:01    Test Suite Parsing has been completed.
+20 Jan 2019 14:58:01    
+
+------------------------	Test suite Parsing Completed	------------------------
+
+
+20 Jan 2019 14:58:01    
+
+------------------------	Test suite execution started	------------------------
+
+
+20 Jan 2019 14:58:01    Test: 2 Open Chrome and goto URL		
